@@ -1,7 +1,7 @@
-# 𝙂𝙖𝙩𝙖𝘽𝙤𝙩
+# PolBot
 
 <p align="center"> 
-<img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
+<img src="[https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"](https://lastfm.freetls.fastly.net/i/u/770x0/c34d0c65440a4100d06b7bdce6017ec6.jpg#c34d0c65440a4100d06b7bdce6017ec6)/> 
 </p> 
   
 ## ¡Hola! Bienvenido(a) 😸 a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
